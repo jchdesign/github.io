@@ -1,22 +1,28 @@
 {
-	"movies": [
+	"music": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Spirit Breaker",
+			"Artist": "August Burns Red",
+			"Album": "Rescue & Restore",
+			"Year": "2013"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Emberglow",
+			"Artist": "Invent Animate",
+			"Album": "Heavener",
+			"Year": "2023"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Doubt",
+			"Artist": "Invent Animate",
+			"Album": "Love Is Not Enough",
+			"Year": "2016"
+		},
+		{
+			"Title": "Until We Meet Again",
+			"Artist": "Recollections",
+			"Album": "Until We Meet Again",
+			"Year": "2021"
 		}
 	]
 }
